@@ -1,0 +1,9 @@
+risk-toy-validation:
+  minAge: 18
+  maxAge: 60
+  minWeightInKg: 50
+  maxWeightInKg: 120
+  supportedCities:
+    - São Paulo
+    - Rio de Janeiro
+    - Campinas
